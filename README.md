@@ -64,14 +64,6 @@ https://my-bookshelf.herokuapp.com/
 
 ***
 
-# サイトマップ
-![My BookShelf  サイトマップ](https://i.gyazo.com/a7171d1378f57f0da9730798d73df744.png)
-***
-
-# ER図
-![My BookShelf  ER図](https://i.gyazo.com/e56bf80a5b864b25922db55d96f5d9c6.png)
-***
-
 # 実装した各種機能
 
 『記事関連』
@@ -90,24 +82,18 @@ https://my-bookshelf.herokuapp.com/
 - DBテーフルのリレーション機能
 ***
 
-## トップページ（ログイン前）
-![My BookShelf トップページ（ログイン前）](https://i.gyazo.com/c13b0e701cb2b78b1bb93f53026eae59.jpg)
-
-## トップページ（ログイン後）
-![My BookShelf トップページ（ログイン後）](https://i.gyazo.com/54cdebe369d29841ed3e68a8982fec0d.png)
-
-## ユーザー登録ページ
-![My BookShelf ユーザー登録ページ](https://i.gyazo.com/b6ff55c14a9fcb6e4183f13b5720e5d0.png)
 
 ## ログインページ
-![My BookShelf  ログインページ](https://i.gyazo.com/c04f16194b0ce83a348964968909f729.png)
+![My BookShelf  ログインページ](https://i.gyazo.com/a015e8300b0c0414531ec3c7bf19ce64.png)
 
-## 投稿一覧ページ
-![My BookShelf  投稿一覧ページ](https://i.gyazo.com/ba9a21d2b6c80ebca27471c814174b29.png)
+## トップページ1（ログイン後）
+![My BookShelf トップページ（ログイン後）](https://i.gyazo.com/05918fa4fb2cdac7e6d1c277feba914a.jpg)
 
-## ユーザー詳細ページ
-![My BookShelf ユーザー詳細ページ](https://i.gyazo.com/ba9a21d2b6c80ebca27471c814174b29.png)
+## トップページ2（ログイン後）
+![My BookShelf  投稿一覧ページ](https://i.gyazo.com/363c50b13c4c1f96afb007b204afc070.png)
 
+## 書籍の登録ページ（ログイン後）
+![My BookShelf 書籍の登録ページ](https://i.gyazo.com/5ce3466ee39011d496d9cf857365b56b.png)
 
 # 作成者の自己紹介
 
