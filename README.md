@@ -2,6 +2,8 @@
 
 ## サービス概要
 
+![My-BookShelf トップ](https://i.gyazo.com/05918fa4fb2cdac7e6d1c277feba914a.jpg)
+
 ![My-BookShelf トップ](https://i.gyazo.com/363c50b13c4c1f96afb007b204afc070.png)
 
 私は自ら積極的に学んだ知識を記録として残しておきたいと思いました。、だから私ははその本の知識を保存しておくために私なりの本棚を作りたいと思い、製作しました。
