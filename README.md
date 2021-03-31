@@ -39,6 +39,9 @@
 - 動作確認を、機能ごとと全体の動作確認も行う点をとても大切にしました。
 　
 ## 技術内容
+- HTML/CSS
+- Javascript
+- Firebase
 - バージョン管理:Git
 - インフラ:Heroku
 
