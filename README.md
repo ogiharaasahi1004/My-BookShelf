@@ -47,7 +47,7 @@
 
 ***
 ## URL
-https://my-bookshelf.herokuapp.com/
+https://bookshelf-ogihara.herokuapp.com/
 
 テストユーザーアカウント
 
